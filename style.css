@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    border: 16px solid #08c;
+    border-radius: 50px;
+}
+h1{
+    color: purple;
+}
+p{
+    color: red;
+}
+.container .div1 h3{
+    color: aquamarine;
+}
